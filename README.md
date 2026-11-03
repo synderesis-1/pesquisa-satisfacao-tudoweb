@@ -25,5 +25,5 @@ Certifique-se de ter o [Python instalado](https://www.python.org/) em sua máqui
 ### Passo a passo
 1. Clone este repositório ou baixe o arquivo `main.py`:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/pesquisa-satisfacao-tudoweb.git](https://github.com/SEU_USUARIO/pesquisa-satisfacao-tudoweb.git)
+   git clone [https://github.com/synderesis-1/pesquisa-satisfacao-tudoweb.git](https://github.com/synderesis-1/pesquisa-satisfacao-tudoweb.git)
    cd pesquisa-satisfacao-tudoweb
